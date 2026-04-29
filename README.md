@@ -1,0 +1,8 @@
+@HiltViewModel and @Inject constructor ✅
+Private _uiState and public uiState ✅
+asStateFlow() ✅
+init calling loadData() ✅
+viewModelScope.launch ✅
+Setting Loading before try ✅
+try/catch for error handling ✅
+Collecting Flow from repository ✅
