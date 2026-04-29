@@ -53,6 +53,7 @@ dependencies {
     implementation(libs.androidx.room.runtime)
     implementation(libs.androidx.room.ktx)
     implementation(libs.hilt)
+    implementation(libs.hilt.navigation.compose)
     implementation(libs.retrofit)
     implementation(libs.logging.interceptor)
 
